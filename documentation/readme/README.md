@@ -1,8 +1,6 @@
-# Love Running
+# Cat Sanctuary Dublin
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
-
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
+Cat Sanctuary Dublin is a website looking to promote the support for stray cats. It is targeted towards users who are looking to get a cat or who would like to support stray cats in Dublin by donating or volunteering. The user can find information about cats that can currently be adopted and can request more information on how to support Cat Sanctuary Dublin by filling out a form. 
 
 ![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
@@ -14,51 +12,49 @@ In this section, you should go over the different parts of your project, and des
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  - Featured on all 4 pages the navigation bar includes links to the Homepage, Our Cats, Support Us form and Contact page. 
+  - It is fully responsive and identical on all pages to offer easy navigation. 
+  - It allows the user to easily navigate between the different pages across all devices, without having to use the “back” or “forward” buttons.
 
 ![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
 
-- __The landing page image__
+- __Home page__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - The Home page will allow the user to familiarize themselves with the aims and purpose of Cat Sanctuary.
+  - The user will see the value of supporting Cat Sanctuary’s cause.
 
 ![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
-- __Club Ethos Section__
+- __Our Cats page__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - On the Our Cats page the user can get an overview of cats that are currently looking to be adopted.
+  - Pictures and details about the cats will show the user an insight into the work of Cat Sanctuary and encourage to contact Cat Sanctuary for more information about adoption.
 
 ![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
-- __Meetup Times section__
+- __Support Us page__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  - The Support us page will allow the user to request more information from Cat Sanctuary and express their interest in supporting Cat Sanctuary.
+  - The user will be asked for their name and email address and they will be able to specify in which way they would like to support. 
+  - The user will also be able to leave a custom message for the Cat Sanctuary team.
 
 ![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
 
-- __The Footer__ 
+- __Where to find us page__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - This page provides the user with the address and phone number of Cat Sanctuary. 
+  - This will also allow less internet affine users to contact Cat Sanctuary directly in person. This is to ensure the maximum support for Cat Sanctuary from a wider range of users. 
 
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
 
-- __Gallery__
+- __The footer__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - The footer includes links to relevant social media sites for Cat Sanctuary Dublin. The links will open in a new tab. This provides easy navigation. 
+  - The footer encourages the user to connect via social media and in this way promote the work of Cat Sanctuary.
 
 ![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
-- __The Sign Up Page__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
-
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
@@ -66,7 +62,11 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ### Features Left to Implement
 
-- Another feature idea
+- __Donation page__
+    - A page that allows users to make a direct monetary donation online with different payment methods.
+
+- __Blog page__
+    - A page where the Cat Sanctuary Team can publish information and photographs about their current work to provide the user with an in depth view.
 
 ## Testing 
 

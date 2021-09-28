@@ -95,3 +95,27 @@ ul li {
     font-size: 1.2rem;
     font-weight: bold;
 }
+
+/* footer */
+
+footer {
+    background-color: #5a374a;
+    color: #f2f2f2;
+    text-align: center;
+    margin: 0;
+    padding: 10px 0;
+}
+
+
+footer p {
+    margin: 0;
+    font-size: 1.1rem;
+    font-weight: 700;
+    padding-bottom: 10px;
+}
+
+footer a {
+    text-decoration: none;
+    color: inherit;
+    padding: 0 5px;
+}

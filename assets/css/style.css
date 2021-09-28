@@ -96,6 +96,23 @@ ul li {
     font-weight: bold;
 }
 
+/* support us button linking to the support us page */
+
+.supportusbutton {
+    background-color: #998FC7;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    width: 120px;
+}
+
+.supportusbutton a {
+    color: #5a374a;
+    font-weight: 700;
+    text-decoration: none;
+    
+}
+
 /* footer */
 
 footer {

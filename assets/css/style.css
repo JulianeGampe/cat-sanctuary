@@ -49,22 +49,22 @@ header {
 /* grid style for navigation */
 
 #home {
-    grid-column: 1 / 4;
+    grid-column: 1 / 5;
     grid-row-start: 1;
 }
 
 #ourcats {
-    grid-column: 1 / 4;
+    grid-column: 1 / 5;
     grid-row-start: 2;
 }
 
 #supportus {
-    grid-column: 1 / 4;
+    grid-column: 1 / 5;
     grid-row-start: 3;
 }
 
 #wheretofindus {
-    grid-column: 1 / 4;
+    grid-column: 1 / 5;
     grid-row-start: 4;
 }
 
@@ -140,25 +140,25 @@ footer a {
 
 /* for screen sizes min-width 600px */
 
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 600px) {
 
     #home {
-        grid-column: 2 / 3;
+        grid-column: 1 / 3;
         grid-row-start: 1;
     }
     
     #ourcats {
-        grid-column:  2 / 3;
+        grid-column:  1 / 3;
         grid-row-start: 3;
     }
     
     #supportus {
-        grid-column: 3 / 4;
+        grid-column: 3 / 5;
         grid-row-start: 1;
     }
     
     #wheretofindus {
-        grid-column: 3 / 4;
+        grid-column: 3 / 5;
         grid-row-start: 3;
     }
 }

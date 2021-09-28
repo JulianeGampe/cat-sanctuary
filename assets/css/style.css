@@ -4,6 +4,12 @@ body {
     padding: 0;
 }
 
+
+/* nav menu */
+
+
+
+
 /* home page main content */
 
 #backgroundimage {
@@ -16,7 +22,7 @@ body {
     padding: 10% 0 0 10%;
 }
 
-h1 {
+h2 {
     font-size: 2rem;
 }
 

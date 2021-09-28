@@ -32,7 +32,13 @@ header {
     text-decoration: none;
 }
 
+#navigation li a:hover {
+    background-color: #998FC7;
+}
 
+.active {
+    border-bottom: 1px solid #f2f2f2;
+}
 
 /* home page main content */
 

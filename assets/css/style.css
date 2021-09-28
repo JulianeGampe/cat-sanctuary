@@ -14,6 +14,8 @@ header {
 #mainheading {
     color: #f2f2f2;
     text-decoration: none;
+    text-align: center;
+    padding: 10px;
 }
 
 #mainheading h1 {
@@ -25,6 +27,10 @@ header {
     list-style-type: none;
     padding: 0;
     margin: 0;
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 25% 25% 25% 25%;
+    text-align: center;
 }
 
 #navigation li a {
@@ -38,6 +44,35 @@ header {
 
 .active {
     border-bottom: 1px solid #f2f2f2;
+}
+
+/* grid style for navigation */
+
+#home {
+    grid-column-start: 1;
+    grid-row-start: 1;
+}
+
+#ourcats {
+    grid-column-start: 1;
+    grid-row-start: 2;
+}
+
+#supportus {
+    grid-column-start: 1;
+    grid-row-start: 3;
+}
+
+#wheretofindus {
+    grid-column-start: 1;
+    grid-row-start: 4;
+}
+
+#home,
+#ourcats,
+#supportus,
+#wheretofindus {
+    padding: 5px;
 }
 
 /* home page main content */

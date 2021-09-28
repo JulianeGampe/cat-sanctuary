@@ -89,6 +89,7 @@ header {
 
 h2 {
     font-size: 2rem;
+    
 }
 
 ul li {
@@ -160,5 +161,30 @@ footer a {
     #wheretofindus {
         grid-column: 3 / 5;
         grid-row-start: 3;
+    }
+}
+
+/* for screen sizes min-width 992px */
+
+@media screen and (min-width: 992px) {
+
+    #home {
+        grid-column: 1 / 2;
+        grid-row-start: 1;
+    }
+    
+    #ourcats {
+        grid-column:  2 / 3;
+        grid-row-start: 1;
+    }
+    
+    #supportus {
+        grid-column: 3 / 4;
+        grid-row-start: 1;
+    }
+    
+    #wheretofindus {
+        grid-column: 4 / 5;
+        grid-row-start: 1;
     }
 }

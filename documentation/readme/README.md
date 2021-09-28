@@ -119,6 +119,7 @@ You can break the credits section up into Content and Media, depending on what y
   - [Instagram Icon](https://fontawesome.com/v5.15/icons/instagram-square?style=brands)
   - [Twitter Icon](https://fontawesome.com/v5.15/icons/twitter?style=brands)
   - [YouTube Icon](https://fontawesome.com/v5.15/icons/youtube?style=brands)
+- Information for HTML address tag taken from [w3schools](https://www.w3schools.com/tags/tag_address.asp)
 
 ### Media
 

@@ -119,6 +119,16 @@ ul li {
     
 }
 
+/* wheretofindus main content */
+
+address {
+    display: block;
+    font-style: normal;
+    text-align: center;
+    padding: 10%;
+    line-height: 2rem;
+}
+
 /* footer */
 
 footer {

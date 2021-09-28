@@ -110,14 +110,19 @@ You can break the credits section up into Content and Media, depending on what y
 
 ### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- The overall project inspiration was taken from [I gatti di Roma – Roman Cats](https://www.gattidiroma.net/web/en/) 
+- The icons in the navigation menu and footer were taken from [Font Awesome](https://fontawesome.com/)
+  - [Home Icon](https://fontawesome.com/v5.15/icons/home?style=solid)
+  - [Our Cats Icon](https://fontawesome.com/v5.15/icons/cat?style=solid)
+  - [Support Us Icon](https://fontawesome.com/v5.15/icons/medkit?style=solid)
+  - [Where to find us Icon](https://fontawesome.com/v5.15/icons/map-marked-alt?style=solid)
+  - [Instagram Icon](https://fontawesome.com/v5.15/icons/instagram-square?style=brands)
+  - [Twitter Icon](https://fontawesome.com/v5.15/icons/twitter?style=brands)
+  - [YouTube Icon](https://fontawesome.com/v5.15/icons/youtube?style=brands)
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+- The background image used on the Home page was taken from [Pexels](https://www.pexels.com/photo/long-fur-white-cat-1084425/)
 
 
 Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 

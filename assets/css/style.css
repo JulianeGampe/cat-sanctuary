@@ -5,7 +5,22 @@ body {
 }
 
 
-/* nav menu */
+/* main heading and navigation menu */
+
+header {
+    background-color: #5a374a;
+}
+
+
+header a,
+header h1,
+header ul {
+    color: #f2f2f2;
+    text-decoration: none;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
 
 
 

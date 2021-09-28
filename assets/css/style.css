@@ -11,17 +11,26 @@ header {
     background-color: #5a374a;
 }
 
-
-header a,
-header h1,
-header ul {
+#mainheading {
     color: #f2f2f2;
     text-decoration: none;
+}
+
+#mainheading h1 {
+    padding: 0;
+    margin: 0;
+}
+
+#navigation {
     list-style-type: none;
     padding: 0;
     margin: 0;
 }
 
+#navigation li a {
+    color: #f2f2f2;
+    text-decoration: none;
+}
 
 
 

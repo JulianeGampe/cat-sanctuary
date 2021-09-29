@@ -148,7 +148,7 @@ ul li {
 #name {
     grid-column: 1 / 5;
     grid-row-start: 5;
-    margin: 0 3px;
+    margin: 1px 3px;
 }
 
 #labelemail {
@@ -161,7 +161,7 @@ ul li {
 #email {
     grid-column: 1 / 5;
     grid-row-start: 7;
-    margin: 0 3px;
+    margin: 1px 5px;
 }
 
 #formparagraph {
@@ -215,7 +215,7 @@ ul li {
 #comments {
     grid-column: 1 / 5;
     grid-row: 15 / 19;
-    margin: 0 3px;
+    margin: 1px 3px;
 }
 
 #submitbutton {
@@ -305,9 +305,7 @@ footer a {
         grid-column: 3 / 5;
         grid-row-start: 3;
     }
-
-
-    
+  
 
 }
 
@@ -372,18 +370,18 @@ footer a {
     #labeladopt {
         grid-column: 2 / 3;
         grid-row-start: 10;
-        text-align: right;
+        
     }
     
     #adopt {
-        grid-column-start: 3 / 4;
+        grid-column: 3 / 4;
         grid-row-start: 10;
     }
     
     #labelvolunteer {
         grid-column: 2 / 3;
         grid-row-start: 11;
-        text-align: right;
+        
     }
     
     #volunteer {
@@ -395,7 +393,6 @@ footer a {
     #labeldonation {
         grid-column: 2 / 3;
         grid-row-start: 12;
-        text-align: right;
     }
     
     #donation {

@@ -177,7 +177,7 @@ ul li {
     text-align: right;
 }
 
-#adopt {
+#radioadopt {
     grid-column-start: 3;
     grid-row-start: 10;
 }
@@ -188,7 +188,7 @@ ul li {
     text-align: right;
 }
 
-#volunteer {
+#radiovolunteer {
     grid-column-start: 3;
     grid-row-start: 11;
 }
@@ -200,7 +200,7 @@ ul li {
     text-align: right;
 }
 
-#donation {
+#radiodonation {
     grid-column-start: 3;
     grid-row-start: 12;
 }
@@ -368,36 +368,40 @@ footer a {
     }
     
     #labeladopt {
-        grid-column: 2 / 3;
-        grid-row-start: 10;
-        
-    }
-    
-    #adopt {
         grid-column: 3 / 4;
         grid-row-start: 10;
+        text-align: left;        
+    }
+    
+    #radioadopt {
+        grid-column: 2 / 3;
+        grid-row-start: 10;
+        text-align: right;
     }
     
     #labelvolunteer {
-        grid-column: 2 / 3;
-        grid-row-start: 11;
-        
-    }
-    
-    #volunteer {
         grid-column: 3 / 4;
         grid-row-start: 11;
+        text-align: left;
+    }
+    
+    #radiovolunteer {
+        grid-column: 2 / 3;
+        grid-row-start: 11;
+        text-align: right;
     }
     
     
     #labeldonation {
-        grid-column: 2 / 3;
-        grid-row-start: 12;
-    }
-    
-    #donation {
         grid-column: 3 / 4;
         grid-row-start: 12;
+        text-align: left;
+    }
+    
+    #radiodonation {
+        grid-column: 2 / 3;
+        grid-row-start: 12;
+        text-align: right;
     }
     
     #labelcomments {

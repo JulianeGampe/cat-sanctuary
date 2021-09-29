@@ -119,6 +119,97 @@ ul li {
     
 }
 
+
+/* support us form */
+
+#form {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: repeat(18, 20px);
+}
+
+#formheading {
+    grid-column: 1 / 3;
+    grid-row: 1 / 3;
+}
+
+#labelname {
+    grid-column: 1 / 3;
+    grid-row-start: 3;
+}
+
+#name {
+    grid-column: 1 / 3;
+    grid-row-start: 4;
+}
+
+#labelemail {
+    grid-column: 1 / 3;
+    grid-row-start: 5;
+}
+
+#email {
+    grid-column: 1 / 3;
+    grid-row-start: 6;
+}
+
+#formparagraph {
+    grid-column: 1 / 3;
+    grid-row-start: 7;
+}
+
+#labeladopt {
+    grid-column-start: 2;
+    grid-row-start: 8;
+}
+
+#adopt {
+    grid-column-start: 2;
+    grid-row-start: 8;
+}
+
+#labelvolunteer {
+    grid-column-start: 1;
+    grid-row-start: 9;
+}
+
+#volunteer {
+    grid-column-start: 2;
+    grid-row-start: 9;
+}
+
+
+#labeldonate {
+    grid-column-start: 1;
+    grid-row-start: 10;
+}
+
+#donate {
+    grid-column-start: 2;
+    grid-row-start: 10;
+}
+
+#labelcomments {
+    grid-column: 1 / 3;
+    grid-row-start: 11;
+}
+
+#comments {
+    grid-column: 1 / 3;
+    grid-row: 12 / 16;
+}
+
+#submitbutton {
+    grid-column: 1 / 3;
+    grid-row-start: 17;
+}
+#resetbutton {
+    grid-column: 1 / 3;
+    grid-row-start: 18;
+}
+
+
+
 /* wheretofindus main content */
 
 address {

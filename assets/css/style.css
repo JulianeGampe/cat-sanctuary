@@ -307,106 +307,7 @@ footer a {
     }
 
 
-    /* support us form grid */
-       
-    #labelname {
-        grid-column: 1 / 2;
-        grid-row-start: 4;
-        text-align: right;
-    }
     
-    #name {
-        grid-column-start: 2;
-        grid-row-start: 4;
-        margin: 0 3px;
-    }
-    
-    #labelemail {
-        grid-column-start: 1;
-        grid-row-start: 6;
-    }
-    
-    #email {
-        grid-column-start: 2;
-        grid-row-start: 6;
-    }
-    
-    #formparagraph {
-        font-weight: 600;
-        grid-column: 1 / 3;
-        grid-row-start: 9;
-        padding: 5px;
-    }
-    
-    #labeladopt {
-        grid-column-start: 1;
-        grid-row-start: 10;
-        text-align: right;
-    }
-    
-    #adopt {
-        grid-column-start: 2;
-        grid-row-start: 10;
-    }
-    
-    #labelvolunteer {
-        grid-column-start: 1;
-        grid-row-start: 11;
-        text-align: right;
-    }
-    
-    #volunteer {
-        grid-column-start: 2;
-        grid-row-start: 11;
-    }
-    
-    
-    #labeldonation {
-        grid-column-start: 1;
-        grid-row-start: 12;
-        text-align: right;
-    }
-    
-    #donation {
-        grid-column-start: 2;
-        grid-row-start: 12;
-    }
-    
-    #labelcomments {
-        font-weight: 600;
-        grid-column: 1 / 3;
-        grid-row-start: 14;
-        padding: 5px;
-    }
-    
-    #comments {
-        grid-column: 1 / 3;
-        grid-row: 15 / 19;
-        margin: 0 3px;
-    }
-    
-    #submitbutton {
-        background-color: #5a374a;
-        color: #f2f2f2;
-        font-weight: 600;
-        grid-column-start: 2;
-        grid-row-start: 20;
-        width: 80%;
-    }
-    
-    #submitbutton:hover {
-        background-color: #998FC7;
-    }
-    
-    #resetbutton {
-        color: #5a374a;
-        font-size: .8rem;
-        font-weight: 300;
-        grid-column: 2;
-        grid-row-start: 22;
-        width: 60%;
-    }
-
 
 }
 
@@ -435,4 +336,94 @@ footer a {
         grid-column: 4 / 5;
         grid-row-start: 1;
     }
+
+
+    /* support us form grid */
+       
+    #labelname {
+        grid-column: 2 / 3;
+        grid-row-start: 4;
+        text-align: right;
+    }
+    
+    #name {
+        grid-column: 3 / 4;
+        grid-row-start: 4;
+        
+    }
+    
+    #labelemail {
+        grid-column: 2 / 3;
+        grid-row-start: 6;
+        text-align: right;
+    }
+    
+    #email {
+        grid-column: 3 / 4;
+        grid-row-start: 6;
+    }
+    
+    #formparagraph {
+        grid-column: 2 / 3;
+        grid-row-start: 9;
+        text-align: right;
+    }
+    
+    #labeladopt {
+        grid-column: 2 / 3;
+        grid-row-start: 10;
+        text-align: right;
+    }
+    
+    #adopt {
+        grid-column-start: 3 / 4;
+        grid-row-start: 10;
+    }
+    
+    #labelvolunteer {
+        grid-column: 2 / 3;
+        grid-row-start: 11;
+        text-align: right;
+    }
+    
+    #volunteer {
+        grid-column: 3 / 4;
+        grid-row-start: 11;
+    }
+    
+    
+    #labeldonation {
+        grid-column: 2 / 3;
+        grid-row-start: 12;
+        text-align: right;
+    }
+    
+    #donation {
+        grid-column: 3 / 4;
+        grid-row-start: 12;
+    }
+    
+    #labelcomments {
+        grid-column: 2 / 3;
+        grid-row-start: 14;
+        text-align: right;
+    }
+    
+    #comments {
+        grid-column: 3 / 4;
+        grid-row: 15 / 19;
+    }
+    
+    #submitbutton {
+        grid-column-start: 3;
+        grid-row-start: 20;
+    }
+    
+    
+    
+    #resetbutton {
+        grid-column: 3;
+        grid-row-start: 22;
+    }
+
 }

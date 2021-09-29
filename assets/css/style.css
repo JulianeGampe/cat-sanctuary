@@ -125,89 +125,124 @@ ul li {
 #form {
     display: grid;
     grid-template-columns: 50% 50%;
-    grid-template-rows: repeat(18, 20px);
+    grid-template-rows: repeat(23, 30px);
 }
 
 #formheading {
+    font-family: Yaldevi, sans-serif;
+    font-size: 1.2rem;
+    font-weight: 700;
     grid-column: 1 / 3;
     grid-row: 1 / 3;
+    text-align: center;
+    padding: 10px;
 }
 
 #labelname {
+    font-weight: 600;
     grid-column: 1 / 3;
-    grid-row-start: 3;
+    grid-row-start: 4;
+    padding: 5px;
 }
 
 #name {
     grid-column: 1 / 3;
-    grid-row-start: 4;
+    grid-row-start: 5;
+    margin: 0 3px;
 }
 
 #labelemail {
+    font-weight: 600;
     grid-column: 1 / 3;
-    grid-row-start: 5;
+    grid-row-start: 6;
+    padding: 5px;
 }
 
 #email {
     grid-column: 1 / 3;
-    grid-row-start: 6;
+    grid-row-start: 7;
+    margin: 0 3px;
 }
 
 #formparagraph {
+    font-weight: 600;
     grid-column: 1 / 3;
-    grid-row-start: 7;
+    grid-row-start: 9;
+    padding: 5px;
 }
 
 #labeladopt {
-    grid-column-start: 2;
-    grid-row-start: 8;
+    grid-column-start: 1;
+    grid-row-start: 10;
+    text-align: right;
 }
 
 #adopt {
     grid-column-start: 2;
-    grid-row-start: 8;
+    grid-row-start: 10;
 }
 
 #labelvolunteer {
     grid-column-start: 1;
-    grid-row-start: 9;
+    grid-row-start: 11;
+    text-align: right;
 }
 
 #volunteer {
     grid-column-start: 2;
-    grid-row-start: 9;
+    grid-row-start: 11;
 }
 
 
-#labeldonate {
+#labeldonation {
     grid-column-start: 1;
-    grid-row-start: 10;
+    grid-row-start: 12;
+    text-align: right;
 }
 
-#donate {
+#donation {
     grid-column-start: 2;
-    grid-row-start: 10;
+    grid-row-start: 12;
 }
 
 #labelcomments {
+    font-weight: 600;
     grid-column: 1 / 3;
-    grid-row-start: 11;
+    grid-row-start: 14;
+    padding: 5px;
 }
 
 #comments {
     grid-column: 1 / 3;
-    grid-row: 12 / 16;
+    grid-row: 15 / 19;
+    margin: 0 3px;
 }
 
 #submitbutton {
-    grid-column: 1 / 3;
-    grid-row-start: 17;
-}
-#resetbutton {
-    grid-column: 1 / 3;
-    grid-row-start: 18;
+    background-color: #5a374a;
+    color: #f2f2f2;
+    font-weight: 600;
+    grid-column-start: 2;
+    grid-row-start: 20;
+    width: 80%;
 }
 
+#submitbutton:hover {
+    background-color: #998FC7;
+}
+
+#resetbutton {
+    color: #5a374a;
+    font-size: .8rem;
+    font-weight: 300;
+    grid-column: 2;
+    grid-row-start: 22;
+    width: 60%;
+}
+
+#resetbutton:hover {
+    background-color: #998FC7;
+}
 
 
 /* wheretofindus main content */

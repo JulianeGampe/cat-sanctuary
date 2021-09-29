@@ -27,26 +27,26 @@
 
     <!-- support us form -->
     
-    <form action="#" method="POST">
-        <h2>Fill in the form to get more information on how to contact us</h2>
-        <label for="name">Name</label>
+    <form action="#" method="POST" id="form">
+        <h2 id="formheading">Fill in the form to get more information on how to contact us</h2>
+        <label for="name" id="labelname">Name</label>
         <input type="text" id="name" name="name" required>
-        <label for="email">Email</label>
+        <label for="email" id="labelemail">Email</label>
         <input type="email" id="email" name="email" required>
 
         <p>I would like to</p>
-        <label for="adopt">adopt a cat</label>
+        <label for="adopt" id="labelsupport">adopt a cat</label>
         <input type="radio" name="support" id="adopt" value="adopt" checked>
-        <label for="volunteer">volunteer</label>
+        <label for="volunteer" id="labelvolunteer">volunteer</label>
         <input type="radio" name="support" id="volunteer" value="volunteer">
-        <label for="donation">make a donation</label>
+        <label for="donation" id="labeldonation">make a donation</label>
         <input type="radio" name="support" id="donation" value="donation">
 
-        <label for="comments">Comments</label>
+        <label for="comments" id="labelcomments">Comments</label>
         <textarea name="commentw" id="comments" cols="30" rows="10" placeholder="Leave us additional information here"></textarea>
 
-        <input type="submit">
-        <input type="reset" value="Reset form">
+        <input type="submit" id="submitbutton">
+        <input type="reset" value="Reset form" id="resetbutton">
       
     </form>
 

@@ -418,6 +418,9 @@ footer a {
         text-align: left;
     }
     
+    #catsinformation {
+        grid-template-rows: 100px repeat(5, 300px) 100px;     
+    }
     
     #athena {
         grid-column: 1 / 3;

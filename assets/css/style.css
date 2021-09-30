@@ -400,7 +400,75 @@ footer a {
         grid-column: 3 / 5;
         grid-row-start: 3;
     }
-  
+    
+
+    /* our cats grid */
+    
+    #catsinformation li {
+        list-style-type: circle;
+    }
+    
+    
+    #infoathena,
+    #infocharlie,
+    #infolucyrosie,
+    #infomarlene,
+    #infomilomillie {
+        padding-top: 20px;
+        text-align: left;
+    }
+    
+    
+    #athena {
+        grid-column: 1 / 3;
+        grid-row-start: 2;
+    }
+    
+    #infoathena {
+        grid-column: 3 / 5;
+        grid-row-start: 2;
+    }
+    
+    #charlie {
+        grid-column: 1 / 3;
+        grid-row-start: 3;
+    }
+    
+    #infocharlie {
+        grid-column: 3 / 5;
+        grid-row-start: 3;
+    }
+    
+    #lucyrosie {
+        grid-column: 1 / 3;
+        grid-row-start: 4;
+    }
+    
+    #infolucyrosie {
+        grid-column: 3 / 5;
+        grid-row-start: 4;
+    }
+    
+    #marlene {
+        grid-column: 1 / 3;
+        grid-row-start: 5;
+    }
+    
+    #infomarlene {
+        grid-column: 3 / 5;
+        grid-row-start: 5;
+    }
+    
+    #milomillie {
+        grid-column: 1 / 3;
+        grid-row-start: 6;
+    }
+    
+    #infomilomillie {
+        grid-column: 3 / 5;
+        grid-row-start: 6;
+    }
+    
 
 }
 

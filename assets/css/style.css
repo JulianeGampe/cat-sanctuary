@@ -122,7 +122,11 @@ ul li {
 
 /* our cats page */
 
-#photoathena {
+#photoathena,
+#photocharlie,
+#photolucyrosie,
+#photomarlene,
+#photomilomillie {
     height: 300px;
 }
 

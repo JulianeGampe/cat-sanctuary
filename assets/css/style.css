@@ -458,6 +458,10 @@ footer a {
         grid-column: 3 / 5;
         grid-row-start: 5;
     }
+
+    #photomarlene {
+        width: 380px;
+    }
     
     #milomillie {
         grid-column: 1 / 3;

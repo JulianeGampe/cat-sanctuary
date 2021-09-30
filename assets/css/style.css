@@ -122,6 +122,7 @@ ul li {
 
 /* our cats page */
 
+/* img tag */
 #photoathena,
 #photocharlie,
 #photolucyrosie,
@@ -130,15 +131,35 @@ ul li {
     height: 300px;
 }
 
+/* div around img tag*/
+#athena,
+#charlie,
+#lucyrosie,
+#marlene,
+#milomillie {
+    overflow: hidden;
+}
+
+/* grid */
+
 #catsinformation {
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
-    grid-template-rows: 100px repeat(10, 400px);
+    grid-template-rows: 100px repeat(10, 300px);
+    text-align: center;
+}
+
+#catsinformation li {
+    list-style-type: none;
 }
 
 #ourcatsheading {
+    font-family: Yaldevi, sans-serif;
+    font-size: 1.5rem;
+    font-weight: 700;
     grid-column: 1 / 5;
     grid-row-start: 1;
+    padding: 30px;
 }
 
 #athena {

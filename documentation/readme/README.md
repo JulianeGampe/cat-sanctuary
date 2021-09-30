@@ -124,6 +124,13 @@ You can break the credits section up into Content and Media, depending on what y
 ### Media
 
 - The background image used on the Home page was taken from [Pexels](https://www.pexels.com/photo/long-fur-white-cat-1084425/)
+- The images for our cats were taken from Pexels
+  - ["Athena"](https://www.pexels.com/photo/cute-red-kitten-walking-on-grassy-meadow-in-park-5166200/)
+  - ["Charlie"](https://www.pexels.com/photo/a-black-and-white-cat-lying-on-the-carpet-7725964/)
+  - ["Lucy and Rosie"](https://www.pexels.com/photo/two-tabby-kittens-lying-down-1787414/)
+  - ["Marlene"](https://www.pexels.com/photo/photo-of-grey-tabby-kitten-lying-down-2558605/)
+  - ["Milo and Millie"](https://www.pexels.com/photo/black-and-white-tabby-cats-sleeping-on-red-textile-96428/)
+
 
 
 Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 

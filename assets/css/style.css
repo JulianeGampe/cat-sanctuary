@@ -503,6 +503,22 @@ footer a {
     }
 
 
+
+    /* our cats grid */
+    
+    #athena,
+    #charlie,
+    #lucyrosie,
+    #marlene,
+    #milomillie {
+        text-align: right;
+    }
+
+    #photomarlene {
+        width: 450px;
+    }
+    
+
     /* support us form grid */
        
     #labelname {

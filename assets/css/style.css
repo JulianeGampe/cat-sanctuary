@@ -130,6 +130,66 @@ ul li {
     height: 300px;
 }
 
+#catsinformation {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-rows: 100px repeat(10, 400px);
+}
+
+#ourcatsheading {
+    grid-column: 1 / 5;
+    grid-row-start: 1;
+}
+
+#athena {
+    grid-column: 1 / 5;
+    grid-row-start: 2;
+}
+
+#infoathena {
+    grid-column: 1 / 5;
+    grid-row-start: 3;
+}
+
+#charlie {
+    grid-column: 1 / 5;
+    grid-row-start: 4;
+}
+
+#infocharlie {
+    grid-column: 1 / 5;
+    grid-row-start: 5;
+}
+
+#lucyrosie {
+    grid-column: 1 / 5;
+    grid-row-start: 6;
+}
+
+#infolucyrosie {
+    grid-column: 1 / 5;
+    grid-row-start: 7;
+}
+
+#marlene {
+    grid-column: 1 / 5;
+    grid-row-start: 8;
+}
+
+#infomarlene {
+    grid-column: 1 / 5;
+    grid-row-start: 9;
+}
+
+#milomillie {
+    grid-column: 1 / 5;
+    grid-row-start: 10;
+}
+
+#infomilomillie {
+    grid-column: 1 / 5;
+    grid-row-start: 11;
+}
 
 
 

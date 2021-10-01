@@ -466,10 +466,6 @@ footer a {
         grid-column: 2 / 3;
         grid-row-start: 5;
     }
-
-    #photomarlene {
-        width: 380px;
-    }
     
     #milomillie {
         grid-column: 1 / 2;
@@ -526,10 +522,7 @@ footer a {
         text-align: right;
     }
 
-    #photomarlene {
-        width: 450px;
-    }
-    
+        
 
     /* support us form grid */
        

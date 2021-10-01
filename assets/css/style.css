@@ -163,11 +163,9 @@ ul li {
 
 #ourcatsheading {
     font-family: Yaldevi, sans-serif;
-    font-size: 1.5rem;
     font-weight: 700;
     grid-column: 1 / 5;
     grid-row-start: 1;
-    padding: 30px;
 }
 
 #athena {

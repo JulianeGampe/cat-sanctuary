@@ -1,17 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Yaldevi&display=swap');
 
+
 body {
     color: #5a374a;
-    margin: 0;
-    padding: 0;
+    display: grid;
     font-family: Roboto, sans-serif;
+    grid-template-rows: auto 1fr auto;
+    margin: 0;
+    min-height: 100vh;
+    padding: 0;
+    
 }
 
+main {
+    grid-row: 2 / 3;
+}
 
 /* main heading and navigation menu */
 
 header {
     background-color: #5a374a;
+    grid-row: 1 / 2;
 }
 
 #mainheading {
@@ -355,9 +364,10 @@ address {
 footer {
     background-color: #5a374a;
     color: #f2f2f2;
-    text-align: center;
+    grid-row: 3 / 4;
     margin: 0;
     padding: 10px 0;
+    text-align: center;
 }
 
 footer p {

@@ -43,7 +43,7 @@ header {
 }
 
 #navigation li a:hover {
-    background-color: #998FC7;
+    background-color: #886276;
     padding: 5px;
 }
 
@@ -106,7 +106,7 @@ ul li {
 /* support us button linking to the support us page */
 
 .supportusbutton {
-    background-color: #998FC7;
+    background-color: #886276;
     padding: 10px;
     margin: 20px;
     text-align: center;
@@ -114,7 +114,7 @@ ul li {
 }
 
 .supportusbutton a {
-    color: #5a374a;
+    color: #f2f2f2;
     font-weight: 700;
     text-decoration: none;    
 }

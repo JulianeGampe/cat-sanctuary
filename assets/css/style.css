@@ -43,12 +43,13 @@ header {
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
     grid-template-rows: 25% 25% 25% 25%;
-    text-align: center;
+    text-align: center;    
 }
 
 #navigation li a {
     color: #f2f2f2;
-    text-decoration: none;    
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;     
 }
 
 #navigation li a:hover {
@@ -119,7 +120,8 @@ ul li {
     padding: 10px;
     margin: 20px;
     text-align: center;
-    width: 120px;    
+    transition: all 0.2s ease-in-out; 
+    width: 120px;       
 }
 
 .supportusbutton a {
@@ -329,6 +331,7 @@ ul li {
     font-weight: 600;
     grid-column-start: 3;
     grid-row-start: 20;
+    transition: all 0.2s ease-in-out; 
     width: 90%;
 }
 
@@ -344,6 +347,7 @@ ul li {
     font-weight: 300;
     grid-column: 3;
     grid-row-start: 22;
+    transition: all 0.2s ease-in-out; 
     width: 80%;
 }
 

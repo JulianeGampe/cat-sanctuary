@@ -79,6 +79,10 @@ You should also mention in this section any interesting bugs or problems you dis
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 
+
+As the light purple background-color #998f7f that was intially used for the hover of navigation, supportus, submit and resetbutton failed the contrast test, the color #886276 was used instead. This color passes the contrast test with the white color #f2f2f2 that is used as font color in the hover state.
+
+
 ### Validator Testing 
 
 - HTML
@@ -124,6 +128,9 @@ You can break the credits section up into Content and Media, depending on what y
   - [Twitter Icon](https://fontawesome.com/v5.15/icons/twitter?style=brands)
   - [YouTube Icon](https://fontawesome.com/v5.15/icons/youtube?style=brands)
 - Information for HTML address tag taken from [w3schools](https://www.w3schools.com/tags/tag_address.asp)
+- The following websites were used to find the font-colors and do the contrast tests:
+  - [Color Tool](https://material.io/resources/color)
+  - [AdobeColor](https://color.adobe.com/create/color-wheel)
 
 ### Media
 

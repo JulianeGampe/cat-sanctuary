@@ -96,7 +96,7 @@ header {
 #backgroundimage {
     background: url(../images/whitecatbackground.jpg) no-repeat center center fixed;
 	background-size: cover;
-    height: 100vh;
+    height: 100%;
 }
 
 #purpose {

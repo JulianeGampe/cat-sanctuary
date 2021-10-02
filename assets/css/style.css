@@ -327,8 +327,10 @@ ul li {
     width: 80%;
 }
 
-#submitbutton:hover {
-    background-color: #998FC7;
+#submitbutton:hover,
+#resetbutton:hover {
+    background-color: #886276;
+    color: #f2f2f2;
 }
 
 #resetbutton {
@@ -340,9 +342,6 @@ ul li {
     width: 60%;
 }
 
-#resetbutton:hover {
-    background-color: #998FC7;
-}
 
 
 /* wheretofindus main content */

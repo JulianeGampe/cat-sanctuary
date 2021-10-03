@@ -233,7 +233,7 @@ ul li {
 #form {
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
-    grid-template-rows: repeat(23, 30px);
+    grid-template-rows: repeat(3, 40px) repeat(20, 30px);
 }
 
 #formheading {
@@ -617,9 +617,7 @@ footer a {
         grid-column-start: 3;
         grid-row-start: 20;
     }
-    
-    
-    
+           
     #resetbutton {
         grid-column: 3;
         grid-row-start: 22;

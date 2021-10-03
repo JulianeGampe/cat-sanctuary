@@ -108,25 +108,35 @@ Wireframes created with Balsamiq were used to plan the layout of the website.
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+- The page has been tested and works in different browsers.
+![Google Chrome](documentation/screenshots/googlechrome.PNG)
+![Firefox](documentation/screenshots/firefox.PNG)
+![Microsoft Edge](documentation/screenshots/microsoftedge.PNG)
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+- The project is responsive and functions on all standard screen sizes using the devtools device toolbar.
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+- The navigation, home page, our cats page, support us page, where to find us page and the footer are readable and easy to understand.
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+- The support us form works and requires a name, email and the selection of one radio button. Comments are optional. The email field requires and email address. The submit and reset buttons are working.
 
+- All colors have been tested with a contrast checker, as can be seen in the color scheme section above. 
 
-
-As the light purple background-color #998f7f that was intially used for the hover of navigation, supportus, submit and resetbutton failed the contrast test, the color #886276 was used instead. This color passes the contrast test with the white color #f2f2f2 that is used as font color in the hover state.
+  - As the light purple background-color #998f7f that was intially used for the hover of navigation, supportus, submit and resetbutton failed the contrast test, the color #886276 was used instead. This color passes the contrast test with the white color #f2f2f2 that is used as font color in the hover state.
 
 
 ### Validator Testing 
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+    - [Home page](https://validator.w3.org/nu/?doc=https://julianegampe.github.io/cat-sanctuary/index.html)
+    - [Our cats page](https://validator.w3.org/nu/?doc=https://julianegampe.github.io/cat-sanctuary/ourcats.html)
+    - [Support us page](https://validator.w3.org/nu/?doc=https://julianegampe.github.io/cat-sanctuary/supportus.html)
+    - [Where to find us page](https://validator.w3.org/nu/?doc=https://julianegampe.github.io/cat-sanctuary/wheretofindus.html)
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjulianegampe.github[…]&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+- Accessibility
+  - The page passes the accessibility test using lighthouse in devtools
+  ![Lighthouse](documentation/screenshots/lighthouse.PNG)
 
 ### Unfixed Bugs
 

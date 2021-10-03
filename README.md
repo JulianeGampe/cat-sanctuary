@@ -1,8 +1,52 @@
 # Cat Sanctuary Dublin
 
-Cat Sanctuary Dublin is a website looking to promote the support for stray cats. It is targeted towards users who are looking to get a cat or who would like to support stray cats in Dublin by donating or volunteering. The user can find information about cats that can currently be adopted and can request more information on how to support Cat Sanctuary Dublin by filling out a form. 
+Cat Sanctuary Dublin is a website looking to promote the support for stray cats. It is targeted towards users who are looking to adopt a cat or who would like to support stray cats in Dublin by donating or volunteering. The user can find information about cats that can currently be adopted and can request more information on how to support Cat Sanctuary Dublin by filling out a form. 
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Responsice Mockup](documentation/screenshots/amiresponsive.PNG)
+
+## UX
+
+### Colour Scheme 
+
+As a first step a color extractor has been used to extract colors from the choosen background image.
+
+![Color Extractor](documentation/screenshots/colorextracttheme.PNG)
+
+The lighter color #f2f2f2 has been used in a color palette tool to find the main font color #5a374a. 
+To make sure it contrasts well against the background image it was tested in a contrast checker both with the lighter and with the darker color extracted from the background image. 
+
+![Contrast light background color](documentation/screenshots/lightbackgroundcontrastcheck5a374a.PNG)
+![Contrast dark background color](documentation/screenshots/darkbackgroundcontrastcheck5a374a.PNG)
+
+
+The lighter color #f2f2f2 was used as background color on the other pages and also as font color in the navigation menu and footer.
+
+The third color #886276 was choosen to fit the color scheme. It is used for the supportus button as well as in the navigation hover and form button hover. It was as well checked in a contrast checker against #f2f2f2.
+
+![Contrast check third color](documentation/screenshots/contrastcheck886276.PNG)
+![Color Accessibility](documentation/screenshots/coloraccessibility.PNG)
+
+### Typography 
+
+Google fonts has been used to find the two fonts that are displayed on the website. For the headings this is Yaldevi, which is described has a narrow font intended for titles and short texts. For the body the font Roboto is used, which is a common pairing with Yaldevi.
+
+To provide visual cues font-awesome icons have been used in the navigation bar.
+- a house icon for the home page
+- a cat icon for the ourcats page
+- a medical kit icon for the support us page
+- a map icon for the wheretofindus page
+
+The links to the social media platforms in the footer are represented with the equivalent icon as well.
+
+### Wireframes
+
+Wireframes created with Balsamiq were used to plan the layout of the website.
+
+![Home page wireframe](documentation/wireframes/home.png)
+![Ourcats page wireframe](documentation/wireframes/our-cats.png)
+![Supportus page wireframe](documentation/wireframes/support-us.png)
+![Where to find us wireframe](documentation/wireframes/where-to-find-us.png)
+![Mobile version wireframe](documentation/wireframes/mobile-version.png)
 
 ## Features 
 
@@ -128,9 +172,12 @@ You can break the credits section up into Content and Media, depending on what y
   - [Twitter Icon](https://fontawesome.com/v5.15/icons/twitter?style=brands)
   - [YouTube Icon](https://fontawesome.com/v5.15/icons/youtube?style=brands)
 - Information for HTML address tag taken from [w3schools](https://www.w3schools.com/tags/tag_address.asp)
-- The following websites were used to find the font-colors and do the contrast tests:
+- The following websites were used to find the colors and do the contrast tests:
   - [Color Tool](https://material.io/resources/color)
   - [AdobeColor](https://color.adobe.com/create/color-wheel)
+  - [Color Scheme Generator](https://coolors.co/)
+- The fonts were found on [Google Fonts](https://fonts.google.com/specimen/Yaldevi?query=yaldevi&category=Sans+Serif#about)
+- [Balsamiq](https://balsamiq.com/wireframes/desktop/#) was used to create the wireframes
 
 ### Media
 

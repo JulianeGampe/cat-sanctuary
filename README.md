@@ -50,8 +50,6 @@ Wireframes created with Balsamiq were used to plan the layout of the website.
 
 ## Features 
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
 ### Existing Features
 
 - __Navigation Bar__
@@ -60,21 +58,21 @@ In this section, you should go over the different parts of your project, and des
   - It is fully responsive and identical on all pages to offer easy navigation. 
   - It allows the user to easily navigate between the different pages across all devices, without having to use the “back” or “forward” buttons.
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Nav Bar](documentation/screenshots/navigation.PNG)
 
 - __Home page__
 
   - The Home page will allow the user to familiarize themselves with the aims and purpose of Cat Sanctuary.
   - The user will see the value of supporting Cat Sanctuary’s cause.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Home Page](documentation/screenshots/homepage.PNG)
 
 - __Our Cats page__
 
   - On the Our Cats page the user can get an overview of cats that are currently looking to be adopted.
   - Pictures and details about the cats will show the user an insight into the work of Cat Sanctuary and encourage to contact Cat Sanctuary for more information about adoption.
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Our Cats](documentation/screenshots/ourcats.PNG)
 
 - __Support Us page__
 
@@ -82,27 +80,23 @@ In this section, you should go over the different parts of your project, and des
   - The user will be asked for their name and email address and they will be able to specify in which way they would like to support. 
   - The user will also be able to leave a custom message for the Cat Sanctuary team.
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Support Us](documentation/screenshots/supportus.PNG)
 
 - __Where to find us page__ 
 
   - This page provides the user with the address and phone number of Cat Sanctuary. 
   - This will also allow less internet affine users to contact Cat Sanctuary directly in person. This is to ensure the maximum support for Cat Sanctuary from a wider range of users. 
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Where to find us](documentation/screenshots/wheretofindus.PNG)
 
 - __The footer__
 
   - The footer includes links to relevant social media sites for Cat Sanctuary Dublin. The links will open in a new tab. This provides easy navigation. 
   - The footer encourages the user to connect via social media and in this way promote the work of Cat Sanctuary.
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Footer](documentation/screenshots/footer.PNG)
 
 
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
 

@@ -8,6 +8,7 @@ Cat Sanctuary Dublin is a website looking to promote the support for stray cats.
 
 - As a user I want to see a navigation bar so that I can easily navigate between the pages.
 - As a user I want to see social media icons so that I can visit the social media websites with just one click.
+- As a user I want to know in which ways I can support Cat Sanctuary so that I can choose how I would like to support them.
 - As a user I want to see details about the cats so that I can make a decision which cat I want to adopt.
 - As a user I want to be able to express my interest or request more information by filling in a form so that I can receive more details about the work of Cat Sanctuary.
 - As a user I want to see the address and phone number of Cat Sanctuary so that I can contact them direclty offline.
@@ -152,23 +153,27 @@ Wireframes created with Balsamiq were used to plan the layout of the website.
 
 - As a user I want to see a navigation bar so that I can easily navigate between the pages.
 
-![Navigation](documents/screenshots/navigation.png)
+![Navigation](documentation/screenshots/navigation.png)
 
 - As a user I want to see social media icons so that I can visit the social media websites with just one click.
 
-![Footer](documents/screenshots/footer.png)
+![Footer](documentation/screenshots/footer.png)
+
+- As a user I want to know in which ways I can support Cat Sanctuary so that I can choose how I would like to support them.
+
+![Home](documentation/screenshots/homepage.png)
 
 - As a user I want to see details about the cats so that I can make a decision which cat I want to adopt.
 
-![Our Cats](documents/screenshots/ourcats.png)
+![Our Cats](documentation/screenshots/ourcats.png)
 
 - As a user I want to be able to express my interest or request more information by filling in a form so that I can receive more details about the work of Cat Sanctuary.
 
-![Support Us](documents/screenshots/ourcats.png)
+![Support Us](documentation/screenshots/supportus.png)
 
 - As a user I want to see the address and phone number of Cat Sanctuary so that I can contact them direclty offline.
 
-![Where to find us](documents/screenshots/wheretofindus.png)
+![Where to find us](documentation/screenshots/wheretofindus.png)
 
 ### Solved Bugs
 

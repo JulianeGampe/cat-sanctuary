@@ -30,15 +30,15 @@ The third color #886276 was choosen to fit the color scheme. It is used for the 
 
 ### Typography 
 
-Google fonts has been used to find the two fonts that are displayed on the website. For the headings this is Yaldevi, which is described has a narrow font intended for titles and short texts. For the body the font Roboto is used, which is a common pairing with Yaldevi.
+Google fonts has been used to find the two fonts that are displayed on the website. For the headings this is [Yaldevi](https://fonts.google.com/specimen/Yaldevi?query=yaldevi&category=Sans+Serif#about), which is described has a narrow font intended for titles and short texts. For the body the font [Roboto](https://fonts.google.com/specimen/Roboto?category=Sans+Serif&query=Roboto#standard-styles) is used, which is a common pairing with Yaldevi.
 
-To provide visual cues font-awesome icons have been used in the navigation bar.
+To provide visual cues [font-awesome](https://fontawesome.com/) icons have been used in the navigation bar.
 - a house icon for the home page
 - a cat icon for the ourcats page
 - a medical kit icon for the support us page
 - a map icon for the wheretofindus page
 
-The links to the social media platforms in the footer are represented with the equivalent icon as well.
+The links to the social media platforms in the footer are represented with the equivalent font-awesome icon as well.
 
 ### Wireframes
 
@@ -284,8 +284,11 @@ Alternatively, if you use Gitpod, you can [click here](https://gitpod.io/#https:
   - [Color Tool](https://material.io/resources/color)
   - [AdobeColor](https://color.adobe.com/create/color-wheel)
   - [Color Scheme Generator](https://coolors.co/)
-- The fonts were found on [Google Fonts](https://fonts.google.com/specimen/Yaldevi?query=yaldevi&category=Sans+Serif#about)
+- The fonts were found on [Google Fonts](https://fonts.google.com/)
+  - [Yaldevi](https://fonts.google.com/specimen/Yaldevi?query=yaldevi&category=Sans+Serif#about)
+  - [Roboto](https://fonts.google.com/specimen/Roboto?category=Sans+Serif&query=Roboto#standard-styles)
 - [Balsamiq](https://balsamiq.com/wireframes/desktop/#) was used to create the wireframes
+- The grid structure for header, main and footer was done with the help of a post in slack from [seán_ci](https://code-institute-room.slack.com/archives/C0L316Z96/p1628179272187200)
 
 
 ### Media

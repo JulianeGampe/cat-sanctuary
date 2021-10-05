@@ -136,13 +136,29 @@ Wireframes created with Balsamiq were used to plan the layout of the website.
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/)
     - [Home page](https://validator.w3.org/nu/?doc=https://julianegampe.github.io/cat-sanctuary/index.html)
+
+      ![Html home check](documentation/screenshots/htmlcheckerhome.png)
+
     - [Our cats page](https://validator.w3.org/nu/?doc=https://julianegampe.github.io/cat-sanctuary/ourcats.html)
+
+      ![Html ourcats check](documentation/screenshots/htmlcheckerourcats.png)
+
     - [Support us page](https://validator.w3.org/nu/?doc=https://julianegampe.github.io/cat-sanctuary/supportus.html)
+
+      ![Html support us check](documentation/screenshots/htmlcheckersupportus.png)
+
     - [Where to find us page](https://validator.w3.org/nu/?doc=https://julianegampe.github.io/cat-sanctuary/wheretofindus.html)
+
+      ![Html where to find us check](documentation/screenshots/htmlcheckerwheretofindus.png)
+
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjulianegampe.github[…]&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjulianegampe.github.io%2Fcat-sanctuary&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+      ![CSS validation](documentation/screenshots/cssvalidation.png)
+
+
 - Accessibility
   - The page passes the accessibility test using lighthouse in devtools
 

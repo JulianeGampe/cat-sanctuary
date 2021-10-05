@@ -108,6 +108,19 @@ Wireframes created with Balsamiq were used to plan the layout of the website.
 - __Blog page__
     - A page where the Cat Sanctuary Team can publish information and photographs about their current work to provide the user with an in depth view.
 
+
+## Technologies Used
+  
+  - HTML was used to structure the web page semantically and display it in the browser.
+  - CSS was used for the presentation and style of the HTML.
+  - CSS grid was used for the layout of the web pages, specifically the navigation menu, the pictures and information on the our cats page, the support us form and the position of header, main and footer.
+  - [Balsamiq](https://balsamiq.com/wireframes/desktop/#) was used to create the wireframes.
+  - [TinyPNG](https://tinypng.com/) was used to compress the images.
+  - [Gitpod](https://www.gitpod.io/) was used for the develpment of the pages
+  - [Github](https://github.com/) was used to store the code online.
+  - Git was used for version control.
+
+
 ## Testing 
 
 - All colors have been tested with a contrast checker. 
@@ -289,6 +302,7 @@ Alternatively, if you use Gitpod, you can [click here](https://gitpod.io/#https:
   - [Roboto](https://fonts.google.com/specimen/Roboto?category=Sans+Serif&query=Roboto#standard-styles)
 - [Balsamiq](https://balsamiq.com/wireframes/desktop/#) was used to create the wireframes
 - The grid structure for header, main and footer was done with the help of a post in slack from [seán_ci](https://code-institute-room.slack.com/archives/C0L316Z96/p1628179272187200)
+- [TinyPNG](https://tinypng.com/) was used to compress the images.
 
 
 ### Media

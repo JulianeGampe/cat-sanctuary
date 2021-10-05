@@ -24,16 +24,9 @@ As a first step a color extractor has been used to extract colors from the choos
 The lighter color #f2f2f2 has been used in a color palette tool to find the main font color #5a374a. 
 To make sure it contrasts well against the background image it was tested in a contrast checker both with the lighter and with the darker color extracted from the background image. 
 
-![Contrast light background color](documentation/screenshots/lightbackgroundcontrastcheck5a374a.png)
-![Contrast dark background color](documentation/screenshots/darkbackgroundcontrastcheck5a374a.png)
-
-
 The lighter color #f2f2f2 was used as background color on the other pages and also as font color in the navigation menu and footer.
 
 The third color #886276 was choosen to fit the color scheme. It is used for the supportus button as well as in the navigation hover and form button hover. It was as well checked in a contrast checker against #f2f2f2.
-
-![Contrast check third color](documentation/screenshots/contrastcheck886276.png)
-![Color Accessibility](documentation/screenshots/coloraccessibility.png)
 
 ### Typography 
 
@@ -117,19 +110,6 @@ Wireframes created with Balsamiq were used to plan the layout of the website.
 
 ## Testing 
 
-
-
-- The project is responsive and functions on all standard screen sizes using the devtools device toolbar.
-
-- The navigation, home page, our cats page, support us page, where to find us page and the footer are readable and easy to understand.
-
-- The support us form works and requires a name, email and the selection of one radio button. Comments are optional. The email field requires and email address. The submit and reset buttons are working.
-
-- All colors have been tested with a contrast checker, as can be seen in the color scheme section above. 
-
-  - As the light purple background-color #998f7f that was intially used for the hover of navigation, supportus, submit and resetbutton failed the contrast test, the color #886276 was used instead. This color passes the contrast test with the white color #f2f2f2 that is used as font color in the hover state.
-
-
 ### Validator Testing 
 
 - HTML
@@ -176,6 +156,62 @@ Wireframes created with Balsamiq were used to plan the layout of the website.
   - Microsoft Edge
     ![Microsoft Edge](documentation/screenshots/microsoftedge.png)
     ![Microsoft Edge Mobile](documentation/screenshots/microsoftedgemobile.png)
+
+
+### Responsiveness
+
+- The project is responsive and functions on all standard screen sizes using the devtools device toolbar.
+
+- The navigation, home page, our cats page, support us page, where to find us page and the footer are readable and easy to understand.
+
+- The support us form works and requires a name, email and the selection of one radio button. Comments are optional. The email field requires an email address. The submit and reset buttons are working.
+
+  -  Google Chrome Desktop
+
+    ![Google Chrome](documentation/screenshots/googlechrome.png)
+
+  - Google Chrome Mobile
+
+    ![Google Chrome Mobile](documentation/screenshots/googlechromemobile.png)
+
+  - Firefox Desktop
+
+    ![Firefox](documentation/screenshots/firefox.png)
+
+  - Firefox Tablet
+
+    ![Firefox Tablet](documentation/screenshots/firefoxtablet.png)
+  
+  - Microsoft Edge Desktop
+
+    ![Microsoft Edge](documentation/screenshots/microsoftedge.png)
+  
+  - Microsoft Edge Mobile
+
+    ![Microsoft Edge Mobile](documentation/screenshots/microsoftedgemobile.png)
+
+
+- All colors have been tested with a contrast checker. 
+
+  - As the light purple background-color #998f7f that was intially used for the hover of navigation, supportus, submit and resetbutton failed the contrast test, the color #886276 was used instead. This color passes the contrast test with the white color #f2f2f2 that is used as font color in the hover state.
+
+  - Contrast test #5a374a against #f2f2f2 (which was extracted from the background image on the home page)
+
+    ![Contrast light background color](documentation/screenshots/lightbackgroundcontrastcheck5a374a.png)
+
+  - Contrast test #5a374a against #bfb39b (the darker background color that was extracted from the background image)
+
+    ![Contrast dark background color](documentation/screenshots/darkbackgroundcontrastcheck5a374a.png)
+
+  - Contrast test third color #886276
+
+    ![Contrast check third color](documentation/screenshots/contrastcheck886276.png)
+
+  - Color accessiblity #5a374a #886276 and #f2f2f2
+
+    ![Color Accessibility](documentation/screenshots/coloraccessibility.png)
+
+
 
 ### Testing User Stories
 

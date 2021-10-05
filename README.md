@@ -2,7 +2,7 @@
 
 Cat Sanctuary Dublin is a website looking to promote the support for stray cats. It is targeted towards users who are looking to adopt a cat or who would like to support stray cats in Dublin by donating or volunteering. The user can find information about cats that can currently be adopted and can request more information on how to support Cat Sanctuary Dublin by filling out a form. 
 
-![Responsive Mockup](documentation/screenshots/amiresponsive.PNG)
+![Responsive Mockup](documentation/screenshots/amiresponsive.png)
 
 ## User Stories
 
@@ -18,21 +18,21 @@ Cat Sanctuary Dublin is a website looking to promote the support for stray cats.
 
 As a first step a color extractor has been used to extract colors from the choosen background image.
 
-![Color Extractor](documentation/screenshots/colorextracttheme.PNG)
+![Color Extractor](documentation/screenshots/colorextracttheme.png)
 
 The lighter color #f2f2f2 has been used in a color palette tool to find the main font color #5a374a. 
 To make sure it contrasts well against the background image it was tested in a contrast checker both with the lighter and with the darker color extracted from the background image. 
 
-![Contrast light background color](documentation/screenshots/lightbackgroundcontrastcheck5a374a.PNG)
-![Contrast dark background color](documentation/screenshots/darkbackgroundcontrastcheck5a374a.PNG)
+![Contrast light background color](documentation/screenshots/lightbackgroundcontrastcheck5a374a.png)
+![Contrast dark background color](documentation/screenshots/darkbackgroundcontrastcheck5a374a.png)
 
 
 The lighter color #f2f2f2 was used as background color on the other pages and also as font color in the navigation menu and footer.
 
 The third color #886276 was choosen to fit the color scheme. It is used for the supportus button as well as in the navigation hover and form button hover. It was as well checked in a contrast checker against #f2f2f2.
 
-![Contrast check third color](documentation/screenshots/contrastcheck886276.PNG)
-![Color Accessibility](documentation/screenshots/coloraccessibility.PNG)
+![Contrast check third color](documentation/screenshots/contrastcheck886276.png)
+![Color Accessibility](documentation/screenshots/coloraccessibility.png)
 
 ### Typography 
 
@@ -66,21 +66,21 @@ Wireframes created with Balsamiq were used to plan the layout of the website.
   - It is fully responsive and identical on all pages to offer easy navigation. 
   - It allows the user to easily navigate between the different pages across all devices, without having to use the “back” or “forward” buttons.
 
-![Nav Bar](documentation/screenshots/navigation.PNG)
+![Nav Bar](documentation/screenshots/navigation.png)
 
 - __Home page__
 
   - The Home page will allow the user to familiarize themselves with the aims and purpose of Cat Sanctuary.
   - The user will see the value of supporting Cat Sanctuary’s cause.
 
-![Home Page](documentation/screenshots/homepage.PNG)
+![Home Page](documentation/screenshots/homepage.png)
 
 - __Our Cats page__
 
   - On the Our Cats page the user can get an overview of cats that are currently looking to be adopted.
   - Pictures and details about the cats will show the user an insight into the work of Cat Sanctuary and encourage to contact Cat Sanctuary for more information about adoption.
 
-![Our Cats](documentation/screenshots/ourcats.PNG)
+![Our Cats](documentation/screenshots/ourcats.png)
 
 - __Support Us page__
 
@@ -88,21 +88,21 @@ Wireframes created with Balsamiq were used to plan the layout of the website.
   - The user will be asked for their name and email address and they will be able to specify in which way they would like to support. 
   - The user will also be able to leave a custom message for the Cat Sanctuary team.
 
-![Support Us](documentation/screenshots/supportus.PNG)
+![Support Us](documentation/screenshots/supportus.png)
 
 - __Where to find us page__ 
 
   - This page provides the user with the address and phone number of Cat Sanctuary. 
   - This will also allow less internet affine users to contact Cat Sanctuary directly in person. This is to ensure the maximum support for Cat Sanctuary from a wider range of users. 
 
-![Where to find us](documentation/screenshots/wheretofindus.PNG)
+![Where to find us](documentation/screenshots/wheretofindus.png)
 
 - __The footer__
 
   - The footer includes links to relevant social media sites for Cat Sanctuary Dublin. The links will open in a new tab. This provides easy navigation. 
   - The footer encourages the user to connect via social media and in this way promote the work of Cat Sanctuary.
 
-![Footer](documentation/screenshots/footer.PNG)
+![Footer](documentation/screenshots/footer.png)
 
 
 
@@ -117,9 +117,9 @@ Wireframes created with Balsamiq were used to plan the layout of the website.
 ## Testing 
 
 - The page has been tested and works in different browsers.
-![Google Chrome](documentation/screenshots/googlechrome.PNG)
-![Firefox](documentation/screenshots/firefox.PNG)
-![Microsoft Edge](documentation/screenshots/microsoftedge.PNG)
+![Google Chrome](documentation/screenshots/googlechrome.png)
+![Firefox](documentation/screenshots/firefox.png)
+![Microsoft Edge](documentation/screenshots/microsoftedge.png)
 
 - The project is responsive and functions on all standard screen sizes using the devtools device toolbar.
 
@@ -145,7 +145,7 @@ Wireframes created with Balsamiq were used to plan the layout of the website.
 - Accessibility
   - The page passes the accessibility test using lighthouse in devtools
 
-    ![Lighthouse](documentation/screenshots/lighthouse.PNG)
+    ![Lighthouse](documentation/screenshots/lighthouse.png)
 
 
 ### Testing User Stories

@@ -117,10 +117,7 @@ Wireframes created with Balsamiq were used to plan the layout of the website.
 
 ## Testing 
 
-- The page has been tested and works in different browsers.
-![Google Chrome](documentation/screenshots/googlechrome.png)
-![Firefox](documentation/screenshots/firefox.png)
-![Microsoft Edge](documentation/screenshots/microsoftedge.png)
+
 
 - The project is responsive and functions on all standard screen sizes using the devtools device toolbar.
 
@@ -164,6 +161,21 @@ Wireframes created with Balsamiq were used to plan the layout of the website.
 
     ![Lighthouse](documentation/screenshots/lighthouse.png)
 
+
+### Browser Compatibility
+
+- The page has been tested and works in different browsers.
+  - Google Chrome
+    ![Google Chrome](documentation/screenshots/googlechrome.png)
+    ![Google Chrome Mobile](documentation/screenshots/googlechromemobile.png)
+
+  - Firefox
+    ![Firefox](documentation/screenshots/firefox.png)
+    ![Firefox Tablet](documentation/screenshots/firefoxtablet.png)
+  
+  - Microsoft Edge
+    ![Microsoft Edge](documentation/screenshots/microsoftedge.png)
+    ![Microsoft Edge Mobile](documentation/screenshots/microsoftedgemobile.png)
 
 ### Testing User Stories
 

@@ -2,7 +2,15 @@
 
 Cat Sanctuary Dublin is a website looking to promote the support for stray cats. It is targeted towards users who are looking to adopt a cat or who would like to support stray cats in Dublin by donating or volunteering. The user can find information about cats that can currently be adopted and can request more information on how to support Cat Sanctuary Dublin by filling out a form. 
 
-![Responsice Mockup](documentation/screenshots/amiresponsive.PNG)
+![Responsive Mockup](documentation/screenshots/amiresponsive.PNG)
+
+## User Stories
+
+- As a user I want to see a navigation bar so that I can easily navigate between the pages.
+- As a user I want to see social media icons so that I can visit the social media websites with just one click.
+- As a user I want to see details about the cats so that I can make a decision which cat I want to adopt.
+- As a user I want to be able to express my interest or request more information by filling in a form so that I can receive more details about the work of Cat Sanctuary.
+- As a user I want to see the address and phone number of Cat Sanctuary so that I can contact them direclty offline.
 
 ## UX
 
@@ -139,7 +147,30 @@ Wireframes created with Balsamiq were used to plan the layout of the website.
 
     ![Lighthouse](documentation/screenshots/lighthouse.PNG)
 
-### solved Bugs
+
+### Testing User Stories
+
+- As a user I want to see a navigation bar so that I can easily navigate between the pages.
+
+![Navigation](documents/screenshots/navigation.png)
+
+- As a user I want to see social media icons so that I can visit the social media websites with just one click.
+
+![Footer](documents/screenshots/footer.png)
+
+- As a user I want to see details about the cats so that I can make a decision which cat I want to adopt.
+
+![Our Cats](documents/screenshots/ourcats.png)
+
+- As a user I want to be able to express my interest or request more information by filling in a form so that I can receive more details about the work of Cat Sanctuary.
+
+![Support Us](documents/screenshots/ourcats.png)
+
+- As a user I want to see the address and phone number of Cat Sanctuary so that I can contact them direclty offline.
+
+![Where to find us](documents/screenshots/wheretofindus.png)
+
+### Solved Bugs
 
 - The footer was pushed too far down on the home page and on smaller screensizes it was not pushed down enough on the where to find us page.
 - This was solved by applying a grid structure to the navigation, main content and footer.

@@ -119,6 +119,7 @@ Wireframes created with Balsamiq were used to plan the layout of the website.
   - [Gitpod](https://www.gitpod.io/) was used for the develpment of the pages
   - [Github](https://github.com/) was used to store the code online.
   - Git was used for version control.
+  - [hatchful](https://hatchful.shopify.com/) was used for the favicon.
 
 
 ## Testing 
@@ -303,6 +304,7 @@ Alternatively, if you use Gitpod, you can [click here](https://gitpod.io/#https:
 - [Balsamiq](https://balsamiq.com/wireframes/desktop/#) was used to create the wireframes
 - The grid structure for header, main and footer was done with the help of a post in slack from [seán_ci](https://code-institute-room.slack.com/archives/C0L316Z96/p1628179272187200)
 - [TinyPNG](https://tinypng.com/) was used to compress the images.
+- [hatchful](https://hatchful.shopify.com/) was used for the favicon.
 
 
 ### Media
